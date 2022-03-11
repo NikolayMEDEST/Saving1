@@ -70,28 +70,6 @@ public class Main {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     // создаем файлы и записываем в них состояние объектов
     public static void saveGame(String path, GameProgress savingNumber) {
 
